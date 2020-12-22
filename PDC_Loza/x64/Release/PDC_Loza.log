@@ -1,0 +1,8 @@
+﻿  Assembling functions.asm...
+  main.cpp
+C:\Users\Bogdan\Documents\univer\parallel-computing\PDC_Loza\PDC_Loza\main.cpp(78,16): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 26 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PDC_Loza.vcxproj -> C:\Users\Bogdan\Documents\univer\parallel-computing\PDC_Loza\x64\Release\MMX.exe
